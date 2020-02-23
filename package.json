@@ -4,11 +4,11 @@
   "description": "A simple Express.js app",
   "main": "src/main.ts",
   "dependencies": {
-    "express": "^4.17.1",
-    "typescript": "^3.6.4"
+    "express": "^4.17.1"
   },
   "devDependencies": {
-    "tslint": "^5.20.0"
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.4"
   },
   "scripts": {
     "build": "tsc -p src",
